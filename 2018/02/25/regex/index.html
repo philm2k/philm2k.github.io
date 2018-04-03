@@ -3,17 +3,24 @@
 <head>
     <meta charset="utf-8">
     
-    <title>아카이브 | 趣開者</title>
+    <title>Python 정규표현식 기본 | 趣開者</title>
     
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     
-    <meta property="og:type" content="website">
-<meta property="og:title" content="趣開者">
-<meta property="og:url" content="http://philm2k.github.io/archives/index.html">
+        <meta name="keywords" content="Regular Expressions" />
+    
+    <meta name="description" content="정규표현식을 이용하여 요즘 하고 있는 일12345import reicRegex = re.compile(r&apos;BOCOM\d\d\d\d\d&apos;)txt = &quot;This is 책임자승인(BOCOM00001)!!! That is 책임자승인(BOCOM00201)!!!&quot;mo = icRegex.search(txt)print(mo.group()) 이 코드를 실행하면 결과는 “B">
+<meta name="keywords" content="Regular Expressions">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Python 정규표현식 기본">
+<meta property="og:url" content="http://philm2k.github.io/2018/02/25/regex/index.html">
 <meta property="og:site_name" content="趣開者">
+<meta property="og:description" content="정규표현식을 이용하여 요즘 하고 있는 일12345import reicRegex = re.compile(r&apos;BOCOM\d\d\d\d\d&apos;)txt = &quot;This is 책임자승인(BOCOM00001)!!! That is 책임자승인(BOCOM00201)!!!&quot;mo = icRegex.search(txt)print(mo.group()) 이 코드를 실행하면 결과는 “B">
 <meta property="og:locale" content="ko">
+<meta property="og:updated_time" content="2018-03-18T13:21:21.846Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="趣開者">
+<meta name="twitter:title" content="Python 정규표현식 기본">
+<meta name="twitter:description" content="정규표현식을 이용하여 요즘 하고 있는 일12345import reicRegex = re.compile(r&apos;BOCOM\d\d\d\d\d&apos;)txt = &quot;This is 책임자승인(BOCOM00001)!!! That is 책임자승인(BOCOM00201)!!!&quot;mo = icRegex.search(txt)print(mo.group()) 이 코드를 실행하면 결과는 “B">
     
 
     
@@ -135,363 +142,138 @@ ga('send', 'pageview');
                         <div class="main-body-header">
     <h1 class="header">
     
-    <i class="icon fa fa-archive"></i>아카이브
+    <a class="page-title-link" href="/categories/Python/">Python</a>
     </h1>
 </div>
                         <div class="main-body-content">
-                            
-
-    
-    
+                            <article id="post-regex" class="article article-single article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
         
-        
-        <section class="archives-wrap">
-            <div class="archive-year-wrap">
-                <a href="/archives/2018" class="archive-year"><i class="icon fa fa-calendar-o"></i>2018</a>
-            </div>
-            <div class="archives">
-    
-    
-    
-        <div class="article-row">
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
-        
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Python/">Python</a>
-            </div>
-            <div class="date"><time datetime="2018-03-31T08:43:02.000Z" itemprop="datePublished">2018-03-31</time></div>
-        </div>
-        
+            <header class="article-header">
+                
     
         <h1 class="article-title" itemprop="name">
-        <a href="/2018/03/31/python-with-file/">파일 다루기(Treat with files, folders, etc)</a>
+        Python 정규표현식 기본
         </h1>
     
 
-        <p class="article-excerpt">
-            특정 폴더에 가장 최근에 생성된 파일명 가져오기1. glob.glob을 이용하여 파일목록 가져오기123from glob import globlst_files = glob("D:/Dev/02. Python Data Analysis/DataScienceHandbook/*.ipynb")lst_files[:5]
-다음 그림은 그 결과
-2. getctime을 이용하여
-        </p>
-    </div>
-</article>
-    
-
-    
-    
-    
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
+            </header>
         
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Python/">Python</a>
+        
+            <div class="article-meta">
+                
+    <div class="article-date">
+        <a href="/2018/02/25/regex/" class="article-date">
+            <time datetime="2018-02-25T14:49:54.000Z" itemprop="datePublished">2018-02-25</time>
+        </a>
+    </div>
+
+                
+    <div class="article-tag">
+        <i class="fa fa-tag"></i>
+        <a class="tag-link" href="/tags/Regular-Expressions/">Regular Expressions</a>
+    </div>
+
             </div>
-            <div class="date"><time datetime="2018-03-31T08:00:42.000Z" itemprop="datePublished">2018-03-31</time></div>
-        </div>
         
-    
-        <h1 class="article-title" itemprop="name">
-        <a href="/2018/03/31/python-how-to-C/">Python How-To(C)</a>
-        </h1>
-    
+        
+        <div class="article-entry" itemprop="articleBody">
+            <h1 id="정규표현식을-이용하여-요즘-하고-있는-일"><a href="#정규표현식을-이용하여-요즘-하고-있는-일" class="headerlink" title="정규표현식을 이용하여 요즘 하고 있는 일"></a>정규표현식을 이용하여 요즘 하고 있는 일</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> re</span><br><span class="line">icRegex = re.compile(<span class="string">r'BOCOM\d\d\d\d\d'</span>)</span><br><span class="line">txt = <span class="string">"This is 책임자승인(BOCOM00001)!!! That is 책임자승인(BOCOM00201)!!!"</span></span><br><span class="line">mo = icRegex.search(txt)</span><br><span class="line">print(mo.group())</span><br></pre></td></tr></table></figure>
+<p>이 코드를 실행하면 결과는 “BOCOM00001”입니다.</p>
+<p>txt의 문장과 같은 코드가 들어 있는 약 20,000개의 파일을 하나씩 열어서 정규표현식으로 찾고 pandas를 이용하여 Excel로 저장하는데 10분이 채 안 걸립니다. ^^</p>
+<p>위의 내용을 잘 보시면 다음의 단계를 거친 것을 알 수 있습니다.</p>
+<h2 id="Python의-정규표현식-사용의-단계"><a href="#Python의-정규표현식-사용의-단계" class="headerlink" title="Python의 정규표현식 사용의 단계"></a>Python의 정규표현식 사용의 단계</h2><ul>
+<li>import re로 정규식 모듈을 가져온다.</li>
+<li>re.compile() 함수로 Regex 개체를 만든다.</li>
+<li>검색할 문자열을 Regex 개체의 search() 메소드로 전달하여 Match 객체를 돌려받는다.</li>
+<li>Match 개체의 group()메소드를 호출해서 실제 일치하는 텍스트 문자열을 돌려받는다.</li>
+</ul>
+<h2 id="search-vs-findall"><a href="#search-vs-findall" class="headerlink" title="search() vs. findall()"></a>search() vs. findall()</h2><ul>
+<li>search()는 검색하는 문자열에서 처음으로 나타나는 일치하는 텍스트의 Match 개체를 return</li>
+<li>findall() 메소드는 검색 문자열에서 일치하는 모든 문자열을 return</li>
+</ul>
+<p>다시 말해서 위의 코드에서 search() 대신 findall()을 사용할 경우의 답은 [‘BOCOM00001’, ‘BOCOM00201’]입니다.<br>코드는 약간 다릅니다. 맞게 써보면 다음과 같습니다.<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> re</span><br><span class="line">icRegex = re.compile(<span class="string">r'BOCOM\d\d\d\d\d'</span>)</span><br><span class="line">txt = <span class="string">"This is 책임자승인(BOCOM00001)!!! That is 책임자승인(BOCOM00201)!!!"</span></span><br><span class="line">print(icRegex.findall(txt))</span><br></pre></td></tr></table></figure></p>
+<h3 id="Related-Posts"><a href="#Related-Posts" class="headerlink" title="Related Posts"></a>Related Posts</h3><blockquote><p>Dave Child의 정규표현식에 대한 요약 자료입니다. </p>
+<footer><strong>Dave Child</strong><cite><a href="https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/" target="_blank" rel="noopener">Regular Expression Cheatsheet</a></cite></footer></blockquote>
+        </div>
+        <footer class="article-footer">
+            
 
-        <p class="article-excerpt">
-            CClosure(클로저)클로저는 함수 본체에서 정의하지 않고 참조하는 비전역(nonglobal) 변수를 포함한 확장 범위를 가진 함수이며 익명 함수일 필요는 없다. 함수 본체 외부에 정의된 비전역 변수에 접근할 수 있다는 것이 중요하다.
-루시아누 하말류전문가를 위한 파이썬
-뭔 소린지 감은 잘 안 옵니다. ^^
-Related Posts
-        </p>
+
+
+    <a data-url="http://philm2k.github.io/2018/02/25/regex/" data-id="cjfjrx1nz002m5klm17hvs3n1" class="article-share-link"><i class="fa fa-share"></i>공유하기</a>
+<script>
+    (function ($) {
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+        </footer>
     </div>
 </article>
-    
-        </div>
-    
 
+    <section id="comments">
     
-    
-    
-    
-        <div class="article-row">
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
         
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Python/">Python</a>
-            </div>
-            <div class="date"><time datetime="2018-03-29T14:11:42.000Z" itemprop="datePublished">2018-03-29</time></div>
-        </div>
-        
-    
-        <h1 class="article-title" itemprop="name">
-        <a href="/2018/03/29/send-email-with-outlook/">outlook으로 이메일 보내기</a>
-        </h1>
-    
-
-        <p class="article-excerpt">
-            stackoverflow등 인터넷을 뒤지면서 찾은 python으로 email 보내는 소스입니다.pywin을 사용할 수도 있는 것 같은데 아래 소스는 win32를 이용한 방법입니다.
-123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354
-        </p>
+    <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     </div>
-</article>
-    
 
     
-    
-    
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
-        
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Data-Science/">Data Science</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/Data-Science/Pandas/">Pandas</a>
-            </div>
-            <div class="date"><time datetime="2018-03-27T15:17:42.000Z" itemprop="datePublished">2018-03-28</time></div>
-        </div>
-        
-    
-        <h1 class="article-title" itemprop="name">
-        <a href="/2018/03/28/defect-auto-emailer/">엑셀가공하여 자동 이메일 발송하기</a>
-        </h1>
-    
-
-        <p class="article-excerpt">
-            ㅋㅋㅋ 오늘은 제가 하는 일에 pandas와 python을 접목시켜 직원들을 괴롭히는(?) 자동화 프로그램을 하나 작성했습니다.
-프로그램 개요
-테스트관리도구에서 selenium을 이용해서 결함내역을 scrapping
-
-pandas의 read_excel로 읽어들여서 필요한 파일만 dataframe에 저장
-
-PC의 outlook을 실행
-
-2번에서 생성한 Dat
-        </p>
-    </div>
-</article>
-    
-        </div>
-    
-
-    
-    
-    
-    
-        <div class="article-row">
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
-        
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Python/">Python</a>
-            </div>
-            <div class="date"><time datetime="2018-03-21T15:00:58.000Z" itemprop="datePublished">2018-03-22</time></div>
-        </div>
-        
-    
-        <h1 class="article-title" itemprop="name">
-        <a href="/2018/03/22/python-how-to-D/">Python How-To(D)</a>
-        </h1>
-    
-
-        <p class="article-excerpt">
-            Ddecorator함수를 인자로 받아서 추가적인 작업을 함수 전/후에 해서 인자로 받은 함수를 포함한 결과를 return하는 함수12345678from functools import wrapsdef decorater_function(func):    @wraps    def inside_deco_function():        print("Do somet
-        </p>
-    </div>
-</article>
-    
-
-    
-    
-    
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
-        
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Python/">Python</a>
-            </div>
-            <div class="date"><time datetime="2018-03-20T15:53:15.000Z" itemprop="datePublished">2018-03-21</time></div>
-        </div>
-        
-    
-        <h1 class="article-title" itemprop="name">
-        <a href="/2018/03/21/python-how-to/">파이썬 How-To</a>
-        </h1>
-    
-
-        <p class="article-excerpt">
-            ABEenumerateFFirst Class Function(일급함수)GHHigher Order Function(고위함수)IJKLMNOPQRSseleniumTUVWXYyield, yield fromZzipRelated Posts
-Python How-To(C)
-Python How-To(D)
-
-
-
-        </p>
-    </div>
-</article>
-    
-        </div>
-    
-
-    
-    
-    
-    
-        <div class="article-row">
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
-        
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Tips-Refs/">Tips & Refs</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/Tips-Refs/Tips/">Tips</a>
-            </div>
-            <div class="date"><time datetime="2018-03-18T10:01:57.000Z" itemprop="datePublished">2018-03-18</time></div>
-        </div>
-        
-    
-        <h1 class="article-title" itemprop="name">
-        <a href="/2018/03/18/pandas-with-jupyter/">jupyter file을 hexo blog에서 보기(작성중)</a>
-        </h1>
-    
-
-        <p class="article-excerpt">
-            참고 싸이트
-https://www.npmjs.com/package/hexo-jupyter-notebook
-https://hexo.io/ko/docs/asset-folders.html
-Related Posts
-        </p>
-    </div>
-</article>
-    
-
-    
-    
-    
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
-        
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Tips-Refs/">Tips & Refs</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/Tips-Refs/Tips/">Tips</a>
-            </div>
-            <div class="date"><time datetime="2018-03-18T04:17:04.000Z" itemprop="datePublished">2018-03-18</time></div>
-        </div>
-        
-    
-        <h1 class="article-title" itemprop="name">
-        <a href="/2018/03/18/hexo-with-two-repos/">Hexo블로그 관리:두개의 Repositories로 배포와 운영을 관리하기(Window) - 다소 불완전하지만...</a>
-        </h1>
-    
-
-        <p class="article-excerpt">
-            고민의 시작Hexo로 github에 blog를 만든 것 까지는 좋았습니다. 그런데 형편에 따라 오늘은 집에 있는 PC에서 블로그 글을 작성하다가, 내일은 상암동에 있는 개발실의 PC에서 작업하고 하는 일이 있었습니다.hexo g -d로 배포하는 경우 “githubid”.github.io repository에는 생성된 정적인 페이지만 배포가 되기 때문에 xx
-        </p>
-    </div>
-</article>
-    
-        </div>
-    
-
-    
-    
-    
-    
-        <div class="article-row">
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
-        
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Python/">Python</a>
-            </div>
-            <div class="date"><time datetime="2018-03-11T15:26:34.000Z" itemprop="datePublished">2018-03-12</time></div>
-        </div>
-        
-    
-        <h1 class="article-title" itemprop="name">
-        <a href="/2018/03/12/generator/">generator</a>
-        </h1>
-    
-
-        <p class="article-excerpt">
-            Python Cookbook 4.14방대한 양의 로그 파일이 들어 있는 디렉터리에서 작업123456789101112131415161718192021222324252627282930313233343536373839404142434445import osimport fnmatchimport gzipimport bz2import redef gen_find(file
-        </p>
-    </div>
-</article>
-    
-
-    
-    
-    
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
-        
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Tips-Refs/">Tips & Refs</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/Tips-Refs/Refs/">Refs</a>
-            </div>
-            <div class="date"><time datetime="2018-03-11T14:29:16.000Z" itemprop="datePublished">2018-03-11</time></div>
-        </div>
-        
-    
-        <h1 class="article-title" itemprop="name">
-        <a href="/2018/03/11/regex-ref/">정규표현식 기본</a>
-        </h1>
-    
-
-        <p class="article-excerpt">
-            정규표현식에 대한 기본정규표현식을 접한 지는 꽤 오래되었지만 역시 실전에서 사용하지 않고 눈에 익히기 어려워서  자꾸 잊어먹고 아직 마스터도 못하고 있었습니다. ^^
-문자클래스
-
-
-기호
-클래스 의미
-
-
-
-
-\d
-0에서 9까지의 임의의 숫자 글자
-
-
-\D
-\d에 해당되지 않는 모든 글자
-
-
-\w
-문자, 숫자 글자 또는 밑줄 글자
-
-
-\W
-\w에 해당되지 않는
-        </p>
-    </div>
-</article>
-    
-        </div>
-    
-
-
-    </div></section>
-
-
-    <nav id="page-nav">
-        <span class="pages">Page 1 of 3</span>
-        <span class="page-number current">1</span><a class="page-number" href="/archives/page/2/">2</a><a class="page-number" href="/archives/page/3/">3</a><a class="extend next" rel="next" href="/archives/page/2/">&raquo;</a>
-    </nav>
+    </section>
 
 
                         </div>
@@ -528,6 +310,29 @@ Related Posts
             
         </ul>
     </div>
+    
+        
+<nav id="article-nav">
+    
+        <a href="/2018/02/27/pandas/" id="article-nav-newer" class="article-nav-link-wrap">
+        <strong class="article-nav-caption">새로운</strong>
+        <p class="article-nav-title">
+        
+            Pandas로 엑셀파일 다루기
+        
+        </p>
+        <i class="icon fa fa-chevron-right" id="icon-chevron-right"></i>
+    </a>
+    
+    
+        <a href="/2018/02/20/hello-world/" id="article-nav-older" class="article-nav-link-wrap">
+        <strong class="article-nav-caption">오래된</strong>
+        <p class="article-nav-title">Hello World(자동생성)</p>
+        <i class="icon fa fa-chevron-left" id="icon-chevron-left"></i>
+        </a>
+    
+</nav>
+
     
     <div class="widgets-container">
         
@@ -670,11 +475,13 @@ Related Posts
     var disqus_shortname = 'hobby-developer';
     
     
+    var disqus_url = 'http://philm2k.github.io/2018/02/25/regex/';
+    
     (function() {
     var dsq = document.createElement('script');
     dsq.type = 'text/javascript';
     dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
     </script>
