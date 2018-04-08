@@ -15,7 +15,8 @@ thumbnail:
 
 ```python
 from glob import glob
-lst_files = glob("D:/HobbyDev/02.python Data Analysis/DataScienceHandbook/*.ipynb")
+pattern = "D:/HobbyDev/02.python Data Analysis/DataScienceHandbook/*.ipynb"
+lst_files = glob(pattern)
 lst_files[:5]
 ```
 
