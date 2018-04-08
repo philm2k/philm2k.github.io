@@ -30,4 +30,5 @@ latest_file
 다음 그림은 그 결과
 {% asset_img getctime.jpg getctime을 이용하여 가장 최근에 생성된 파일명 찾기 %}
 
+
 ### Related Posts

@@ -15,5 +15,9 @@ https://www.npmjs.com/package/hexo-jupyter-notebook
 
 https://hexo.io/ko/docs/asset-folders.html
 
+https://www.npmjs.com/package/hexo-ipynb
+
+이게 모듈이라는데 사용방법을 모르겠네요 ㅠㅠ
+
 
 ### Related Posts

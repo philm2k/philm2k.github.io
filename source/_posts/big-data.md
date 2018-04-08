@@ -9,5 +9,5 @@ thumbnail:
 ---
 Big Data란?  
 
-
+무지 big한 데이터를 다루는 것? ^^
 ### Related Posts
