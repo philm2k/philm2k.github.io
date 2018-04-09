@@ -11,6 +11,16 @@ thumbnail:
 ---
 # D
 
+## Data Model
+
+- 숫자형
+- 시퀀스형
+- 매핑형
+  - 딕셔너리(dict): Mutable
+- Set형
+  - set: Mutable
+  - frozenset: Immutable
+
 ## decorator
 
 함수를 인자로 받아서 추가적인 작업을 함수 전/후에 해서 인자로 받은 함수를 포함한 결과를 return하는 함수
@@ -36,6 +46,13 @@ def decorater_function(func):
 def add_func(x):
     return x + x
 {% endcodeblock %}
+
+## dict
+
+- 매핑 자료형
+- 원소들을 검색할 때 index가 아닌 key로 접근해서 처리
+- 키는 유일해야 함
+- 따라서 key를 생성할 때 hash 알고리즘을 통해 유일한 값만 구성
 
 ## dict.get(...) vs. dict.setdefault
 
