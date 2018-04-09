@@ -2,6 +2,7 @@
 title: 파이썬 How-To
 categories:
   - Python
+  - 용어
 tags:
   - H2
 date: 2018-03-21 00:53:15
@@ -44,10 +45,6 @@ thumbnail:
 # Q
 
 # R
-
-# S
-
-## selenium
 
 # T
 

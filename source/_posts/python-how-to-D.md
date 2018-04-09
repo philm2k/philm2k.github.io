@@ -2,6 +2,7 @@
 title: Python How-To(D)
 categories:
   - Python
+  - 용어
 tags:
   - H2
   - D

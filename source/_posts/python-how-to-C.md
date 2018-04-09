@@ -2,6 +2,7 @@
 title: Python How-To(C)
 categories:
   - Python
+  - 용어
 tags:
   - H2
   - C
