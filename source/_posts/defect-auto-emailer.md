@@ -33,6 +33,7 @@ thumbnail:
 
 {% post_link send-email-with-outlook %} 참고
 {% post_link python-how-to-C %}
+
 ## 4. 2번에서 생성한 DataFrame을 가공해서 각 담당자에게 자동 이메일 발송
 
 ### Related Postsㅗㄷㅌ
