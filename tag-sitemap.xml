@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>http://philm2k.github.io/tags/Big-Data/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/datetime/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/Automation/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/effective/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/generator/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/yield/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/yield-from/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/keras/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/machine-learning/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/basic/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/NumPy/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/jupyter-notebook/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/Excel/</loc>
+        <lastmod>2018-04-21T06:56:37.139Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/Python/</loc>
+        <lastmod>2018-04-21T06:56:37.139Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/bool/</loc>
+        <lastmod>2018-04-21T06:56:37.147Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/C/</loc>
+        <lastmod>2018-04-21T06:56:37.147Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/D/</loc>
+        <lastmod>2018-04-21T06:56:37.147Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/S/</loc>
+        <lastmod>2018-04-21T06:56:37.147Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/Outlook/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/H2/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/files/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/folders/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/thebeginning/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/Regular-Expressions/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/Send-Email/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/hexo/</loc>
+        <lastmod>2018-04-22T03:22:33.145Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->

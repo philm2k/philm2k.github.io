@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://philm2k.github.io</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/02/17/About-Hexo/</loc>
+        <lastmod>2018-04-22T03:22:33.145Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/21/python-how-to/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/31/python-with-file/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/02/17/python/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/11/regex-ref/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/02/25/regex/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/29/send-email-with-outlook/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/04/09/python-bool/</loc>
+        <lastmod>2018-04-21T06:56:37.147Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/31/python-how-to-C/</loc>
+        <lastmod>2018-04-21T06:56:37.147Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/22/python-how-to-D/</loc>
+        <lastmod>2018-04-21T06:56:37.147Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/04/09/python-how-to-S/</loc>
+        <lastmod>2018-04-21T06:56:37.147Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/02/27/pandas/</loc>
+        <lastmod>2018-04-21T06:56:37.139Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/02/20/hello-world/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/18/hexo-with-two-repos/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/02/17/keras/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/02/17/machine-learning/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/02/18/numpy/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/18/pandas-with-jupyter/</loc>
+        <lastmod>2018-04-21T06:56:37.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/02/17/2018-02-17/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/02/17/big-data/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/01/datetime/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/28/defect-auto-emailer/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/04/14/effective-python/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/12/generator/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->
