@@ -392,7 +392,7 @@
     <link href="http://philm2k.github.io/2018/03/01/datetime/"/>
     <id>http://philm2k.github.io/2018/03/01/datetime/</id>
     <published>2018-03-01T12:59:26.000Z</published>
-    <updated>2018-04-21T06:56:37.137Z</updated>
+    <updated>2018-04-29T06:25:00.649Z</updated>
     
     <content type="html"><![CDATA[<h1 id="다양한-형태의-날짜-정보-가져오기"><a href="#다양한-형태의-날짜-정보-가져오기" class="headerlink" title="다양한 형태의 날짜 정보 가져오기"></a>다양한 형태의 날짜 정보 가져오기</h1><p>아래 세가지 형태의 날짜 형태만 가져오면 문제가 없더군요.. ^^<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> datatime <span class="keyword">import</span> datetime</span><br><span class="line">dt0 = datetime.now().strftime(<span class="string">'%y%m%d'</span>)       <span class="comment"># 180301</span></span><br><span class="line">dt1 = datetime.now().strftime(<span class="string">'%Y%m%d'</span>)       <span class="comment"># 20180301</span></span><br><span class="line">dt2 = datetime.now().strftime(<span class="string">'%Y%m%d-%H%M'</span>)  <span class="comment"># 20180301-22:04</span></span><br></pre></td></tr></table></figure></p><h3 id="Related-Posts"><a href="#Related-Posts" class="headerlink" title="Related Posts"></a>Related Posts</h3>]]></content>
     

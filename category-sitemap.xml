@@ -49,13 +49,6 @@
     </url>
 
     <url>
-        <loc>http://philm2k.github.io/categories/Python/</loc>
-        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://philm2k.github.io/categories/Python/%EC%9A%A9%EC%96%B4/</loc>
         <lastmod>2018-04-21T06:56:37.148Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -79,6 +72,13 @@
     <url>
         <loc>http://philm2k.github.io/categories/Tips-Refs/Tips/</loc>
         <lastmod>2018-04-22T03:22:33.145Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/categories/Python/</loc>
+        <lastmod>2018-04-29T06:25:00.649Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

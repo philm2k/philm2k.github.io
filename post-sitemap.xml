@@ -7,6 +7,22 @@
     </url>
 
     <url>
+        <loc>http://philm2k.github.io/2018/02/17/2018-02-17/</loc>
+        <lastmod>2018-04-29T06:26:30.221Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/01/datetime/</loc>
+        <lastmod>2018-04-29T06:25:00.649Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://philm2k.github.io/2018/02/17/About-Hexo/</loc>
         <lastmod>2018-04-22T03:22:33.145Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,23 +167,7 @@
     </url>
 
     <url>
-        <loc>http://philm2k.github.io/2018/02/17/2018-02-17/</loc>
-        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://philm2k.github.io/2018/02/17/big-data/</loc>
-        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://philm2k.github.io/2018/03/01/datetime/</loc>
         <lastmod>2018-04-21T06:56:37.137Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
