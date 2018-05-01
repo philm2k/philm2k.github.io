@@ -9,13 +9,6 @@
     </url>
 
     <url>
-        <loc>http://philm2k.github.io/tags/Automation/</loc>
-        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://philm2k.github.io/tags/effective/</loc>
         <lastmod>2018-04-21T06:56:37.137Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -38,6 +31,13 @@
 
     <url>
         <loc>http://philm2k.github.io/tags/yield-from/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/tags/Automation/</loc>
         <lastmod>2018-04-21T06:56:37.137Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

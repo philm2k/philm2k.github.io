@@ -55,14 +55,6 @@
     </url>
 
     <url>
-        <loc>http://philm2k.github.io/2018/03/11/regex-ref/</loc>
-        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://philm2k.github.io/2018/02/25/regex/</loc>
         <lastmod>2018-04-21T06:56:37.148Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -72,6 +64,14 @@
 
     <url>
         <loc>http://philm2k.github.io/2018/03/29/send-email-with-outlook/</loc>
+        <lastmod>2018-04-21T06:56:37.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/11/regex-ref/</loc>
         <lastmod>2018-04-21T06:56:37.148Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -175,14 +175,6 @@
     </url>
 
     <url>
-        <loc>http://philm2k.github.io/2018/03/28/defect-auto-emailer/</loc>
-        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://philm2k.github.io/2018/04/14/effective-python/</loc>
         <lastmod>2018-04-21T06:56:37.137Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -192,6 +184,14 @@
 
     <url>
         <loc>http://philm2k.github.io/2018/03/12/generator/</loc>
+        <lastmod>2018-04-21T06:56:37.137Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://philm2k.github.io/2018/03/28/defect-auto-emailer/</loc>
         <lastmod>2018-04-21T06:56:37.137Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
